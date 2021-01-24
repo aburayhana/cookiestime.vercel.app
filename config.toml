@@ -1,4 +1,4 @@
-baseURL = "https://cookiestime.netlify.app"
+baseURL = "https://cookiestime.vercel.app/"
 languageCode = "en-us"
 title = "Cookies"
 theme = "z"
